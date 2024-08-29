@@ -11,5 +11,7 @@ Working Waveshare 4.2 Inch V2 Module E-Paper Display Configuration on ESP32-WROO
 BUSY -> 4, RST -> 16, DC -> 17, CS -> SS(5), CLK -> SCK(18), DIN -> MOSI(23), GND -> GND, 3.3V -> 3.3V
 
 Example:
-![Image](doc_assets\example_pins.jpg)
 
+![Image](.\doc_assets\example_pins.jpg)
+
+![Image](.\doc_assets\esp32_devkit.jpg)
