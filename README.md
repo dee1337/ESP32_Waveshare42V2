@@ -14,4 +14,4 @@ Example:
 
 ![Image](/doc_assets/example_pins.jpg)
 
-![Image](/doc_assets/sp32_devkit.jpg)
+![Image](/doc_assets/esp32_devkit.jpg)
