@@ -12,6 +12,6 @@ BUSY -> 4, RST -> 16, DC -> 17, CS -> SS(5), CLK -> SCK(18), DIN -> MOSI(23), GN
 
 Example:
 
-![Image](.\doc_assets\example_pins.jpg)
+![Image](/doc_assets/example_pins.jpg)
 
-![Image](.\doc_assets\esp32_devkit.jpg)
+![Image](/doc_assets/sp32_devkit.jpg)
